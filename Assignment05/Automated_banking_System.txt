@@ -1,0 +1,163 @@
+Automated Banking System using Agile
+
+1. Abstract 
+
+An Automated Banking System is a software application that provides customers with online banking services such as account creation, balance inquiry, fund transfer, and transaction history. Traditional banking systems depend heavily on manual processes, which can be time-consuming, error-prone, and inconvenient for customers. With the increasing demand for digital banking, there is a need for an automated system that offers fast, secure, and reliable banking services.
+
+This project focuses on developing an Automated Banking System using Agile methodology. The system allows users to create bank accounts, log in securely, check account balances, transfer funds, and view transaction details. The system also enables bank administrators to manage customer accounts and monitor transactions. By automating routine banking operations, the system reduces human effort and improves accuracy.
+
+
+
+2. Introduction
+2.1 Introduction
+
+Automated banking systems provide digital banking services that allow users to perform transactions without visiting a bank branch.
+
+2.2 Problem Identification
+
+Manual banking processes are slow and require physical presence, leading to long queues and delays.
+
+2.3 Need of the Project
+
+There is a need for a secure and automated banking system that reduces manual effort and improves customer satisfaction.
+
+2.4 Project Scheduling
+
+The project is developed using Agile methodology and divided into sprints such as planning, development, testing, and review.
+
+2.5 Objectives
+
+To automate banking operations
+
+To provide secure fund transfer
+
+To reduce paperwork and processing time
+
+3. Software Requirement Specification
+3.1 Purpose
+
+The purpose of this project is to provide an automated and secure banking solution.
+
+3.2 Scope
+
+The system can be used by banks to offer basic online banking services to customers.
+
+3.3 Hardware / Software Requirement (Minimum)
+
+Hardware: Minimum 4 GB RAM,  Dual Core Processor
+
+Software:  Windows Operating System,  Java,  MySQL Database
+
+3.4 Tools
+
+Java, MySQL, HTML, CSS
+
+3.5 Software Process Model
+
+Agile Scrum Model
+
+4. System Design
+4.1 Data Dictionary
+
+AccountNumber, CustomerName, Email, Balance, TransactionID, TransactionType, Amount, Date
+
+5. Implementation
+5.1 Program Code
+
+The system is implemented using Java for backend logic and MySQL for database management.
+
+5.2 Output Screens
+
+User Login Screen
+
+Account Dashboard
+
+Fund Transfer Screen
+
+Transaction History Screen
+
+6. Testing
+6.1 Test Data
+
+The following test data was used to test the Automated Banking System:
+
+Customer Test Data:
+
+Account Number: 1001001
+Customer Name: Amit Kumar
+Email: amit@gmail.com
+
+Initial Balance: Rs50,000
+
+Account Number: 1001002
+Customer Name: Neha Singh
+Email: neha@gmail.com
+
+Initial Balance: Rs30,000
+
+Transaction Test Data:
+
+Transaction ID: T501
+From Account: 1001001
+To Account: 1001002
+Amount: Rs5,000
+Transaction Type: Fund Transfer
+Status: Successful
+
+Transaction ID: T502
+From Account: 1001002
+To Account: 1001001
+Amount: Rs2,000
+Transaction Type: Fund Transfer
+Status: Successful
+
+Invalid Test Data (for error handling):
+
+Transfer amount greater than available balance
+
+Invalid account number
+
+Login with incorrect credentials
+
+6.2 Test Result
+
+The system validates user login successfully.
+
+Balance updates correctly after fund transfer.
+
+Transaction history is displayed accurately.
+
+Error messages are shown for invalid inputs and insufficient balance.
+
+7. User Manual
+7.1 How to Use Project Guidelines
+
+User logs in using valid credentials
+
+Views account balance
+
+Performs fund transfer
+
+Checks transaction history
+
+7.2 Screen Layouts and Description
+
+The system interface is simple, secure, and easy to navigate.
+
+8. Project Applications and Limitations
+
+Applications:
+
+Online banking services
+
+Financial institutions
+
+Limitations:
+
+Requires internet connection
+
+Limited to basic banking features
+
+9. Conclusion and Future Enhancement
+
+The Automated Banking System provides a secure and efficient banking solution. Agile methodology ensured flexibility and better quality. Future enhancements include OTP authentication, mobile banking support, and advanced security features.

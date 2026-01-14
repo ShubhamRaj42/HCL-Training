@@ -1,0 +1,115 @@
+Travel Booking Platform using Agile
+
+
+1. Abstract 
+
+A Travel Booking Platform is an online system that allows users to search, book, and manage travel-related services such as flights, hotels, and travel packages from a single platform. In traditional travel booking systems, customers depend on travel agents or physical offices, which makes the process time-consuming, costly, and inconvenient. With the rapid growth of internet usage and digital services, there is a strong need for an automated and user-friendly travel booking solution.
+
+This project aims to develop a Travel Booking Platform using Agile methodology. The proposed system enables users to register, search for available travel options, compare prices, book tickets or hotel rooms, and make secure online payments. The system also allows users to view booking history and cancel bookings if required. From the administrator side, the system helps manage travel listings, bookings, and customer information efficiently.
+
+
+2. Introduction
+2.1 Introduction
+
+Travel booking systems are widely used to book flights, hotels, and holiday packages online. They provide convenience, speed, and better control over travel planning for users.
+
+2.2 Problem Identification
+
+Manual travel booking processes are slow, error-prone, and depend heavily on human agents. Customers face delays and limited options.
+
+2.3 Need of the Project
+
+There is a need for an online platform that provides quick access to travel services, easy booking, and secure payment facilities.
+
+2.4 Project Scheduling
+
+The project is developed using Agile methodology and divided into sprints such as requirement analysis, design, development, testing, and review.
+
+
+2.5 Objectives
+
+To provide online travel booking services
+
+To reduce manual effort and booking time
+
+To ensure secure and reliable transactions
+
+3. Software Requirement Specification
+3.1 Purpose
+
+The purpose of this system is to automate the travel booking process and improve user experience.
+
+3.2 Scope
+
+The system can be used by travel agencies, tour operators, and customers for booking travel services.
+
+3.3 Hardware / Software Requirement (Minimum)
+
+Hardware: 4 GB RAM, Dual Core Processor
+
+Software: Windows Operating System, Java,  MySQL Database
+
+3.4 Tools
+
+Java, MySQL, HTML, CSS, JavaScript
+
+3.5 Software Process Model
+
+Agile Scrum Model
+
+
+
+4. Implementation
+4.1 Program Code
+
+The system is implemented using Java for backend logic and MySQL for database management.
+
+4.2 Output Screens
+
+Login and Registration Screen
+
+Travel Search Screen
+
+Booking Confirmation Screen
+
+5. Testing
+5.1 Test Data
+
+Sample user details and booking information.
+
+5.2 Test Result
+
+The system produces correct output for valid inputs and handles errors properly.
+
+6. User Manual
+6.1 How to Use Project Guidelines
+
+User registers or logs in
+
+Searches for travel services
+
+Selects and books travel option
+
+Makes payment and receives confirmation
+
+6.2 Screen Layouts and Description
+
+The interface is simple, clean, and easy to navigate for users.
+
+7. Project Applications and Limitations
+
+Applications:
+
+Online travel booking
+
+Tour management systems
+
+Limitations:
+
+Requires internet connection
+
+Limited third-party integrations
+
+8. Conclusion and Future Enhancement
+
+The Travel Booking Platform provides a reliable and efficient solution for online travel booking. Agile methodology ensured smooth development and continuous improvement. Future enhancements include mobile app support, real-time tracking, and AI-based recommendations.

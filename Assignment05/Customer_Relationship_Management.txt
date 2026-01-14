@@ -1,0 +1,93 @@
+Customer Relationship Management (CRM) System using Agile
+
+
+1. Abstract 
+
+Customer Relationship Management (CRM) is an important system used by organizations to manage interactions with customers, store customer data, and improve customer satisfaction. In many small and medium organizations, customer information is handled manually using paper records or basic spreadsheets. This leads to problems such as data loss, duplication, slow access to information, and poor customer service. To overcome these issues, a computerized CRM system is required.
+
+This project focuses on developing a Customer Relationship Management system using Agile methodology. The proposed system helps in storing customer details such as name, contact information, communication history, and service requests in a structured digital format. The system allows employees to quickly access customer information, track interactions, manage complaints, and generate reports. Agile methodology is used to ensure flexible development, continuous improvement, and user involvement throughout the project lifecycle.
+
+The project is divided into small development cycles called sprints. Each sprint delivers a working module of the system, such as customer registration, interaction tracking, or complaint handling. Regular feedback is taken from users after each sprint, and changes are implemented accordingly. This approach reduces development risk and improves software quality.
+
+
+2. Introduction
+2.1 Introduction
+
+CRM systems help organizations manage customer relationships effectively. They are widely used in sales, marketing, and customer support.
+
+2.2 Problem Identification
+
+Manual customer data management causes inefficiency, errors, and poor customer service.
+
+2.3 Need of the Project
+
+To automate customer data handling and improve service quality.
+
+2.4 Project Scheduling
+
+The project is divided into multiple Agile sprints such as requirement analysis, design, implementation, testing, and review.
+
+2.5 Objectives
+
+-Store customer information digitally
+
+-Track customer interactions
+
+-Improve customer support efficiency
+
+3. Software Requirement Specification
+3.1 Purpose
+
+To develop a CRM system for efficient customer management.
+
+3.2 Scope
+
+Applicable to small and medium-scale organizations.
+
+3.3 Hardware / Software Requirement
+
+Hardware: Minimum 4GB RAM, Dual Core Processor
+
+Software: Windows OS, Java, MySQL
+
+3.4 Tools
+
+Java, MySQL, HTML, CSS
+
+3.5 Software Process Model
+
+Agile Scrum Model
+
+
+4. Implementation
+4.1 Program Code
+
+Implemented using Java and MySQL.
+
+4.2 Output Screens
+
+Login page, Customer dashboard, Complaint status page.
+
+5. Testing
+
+5.1 Test Result
+
+System works correctly for valid inputs.
+
+6. User Manual
+6.1 How to Use
+
+Login → Add Customer → Track Interaction → Generate Report
+
+6.2 Screen Layout
+
+Simple and user-friendly interface.
+
+7. Project Applications and Limitations
+
+Applications: Customer service management
+Limitations: Limited analytics features
+
+8. Conclusion and Future Enhancement
+
+The CRM system improves customer handling. Future enhancements include AI-based analytics and automation.

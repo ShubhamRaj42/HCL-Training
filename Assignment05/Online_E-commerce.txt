@@ -1,0 +1,182 @@
+Online E-Commerce Website using Agile
+
+1. Abstract 
+
+An Online E-Commerce Website is a digital platform that allows customers to buy and sell products over the internet. With the rapid growth of technology and internet usage, online shopping has become one of the most popular ways to purchase goods. Traditional shopping methods require customers to visit physical stores, which can be time-consuming and inconvenient. An e-commerce system helps overcome these limitations by providing a simple, fast, and accessible shopping experience.
+
+This project focuses on developing an Online E-Commerce Website using Agile methodology. The proposed system allows users to register, browse products, add items to a shopping cart, place orders, and make secure online payments. The system also provides features such as order tracking and order history. From the admin side, the system helps manage products, prices, stock, and customer orders efficiently.
+
+2. Introduction
+2.1 Introduction
+
+An e-commerce website enables businesses to sell products online and customers to shop from anywhere at any time.
+
+2.2 Problem Identification
+
+Physical stores have limited working hours and reach. Manual billing and inventory handling can lead to errors and inefficiency.
+
+2.3 Need of the Project
+
+There is a need for an automated system that allows easy product browsing, ordering, and secure online payment.
+
+2.4 Project Scheduling
+
+The project is developed using Agile methodology and divided into sprints such as requirement gathering, development, testing, and review.
+
+2.5 Objectives
+
+To provide an online shopping platform
+
+To simplify order and payment processes
+
+To improve customer experience
+
+3. Software Requirement Specification
+3.1 Purpose
+
+The purpose of this project is to develop an efficient and user-friendly online shopping system.
+
+3.2 Scope
+
+The system can be used by small and medium businesses to sell products online.
+
+3.3 Hardware / Software Requirement (Minimum)
+
+Hardware:  Minimum 4 GB RAM,  Dual Core Processor
+
+Software: Windows Operating System,  Java,  MySQL Database
+
+3.4 Tools
+
+Java, MySQL, HTML, CSS, JavaScript
+
+3.5 Software Process Model
+
+Agile Scrum Model
+
+4. System Design
+4.1 Data Dictionary
+
+UserID, ProductID, ProductName, Price, Quantity, OrderID, PaymentStatus
+
+5. Implementation
+5.1 Program Code
+
+The system is implemented using Java for backend logic and MySQL for database operations.
+
+5.2 Output Screens
+
+User Login and Registration Page
+
+Product Listing Page
+
+Shopping Cart Page
+
+Order Confirmation Page
+
+6.1 Test Data
+
+The following test data was used to verify the functionality of the Online E-Commerce Website:
+
+User Test Data:
+
+UserID: U101
+Name: Rahul Sharma
+Email: rahul@gmail.com
+
+Password: Rahul@123
+
+UserID: U102
+Name: Anjali Verma
+Email: anjali@gmail.com
+
+Password: Anjali@456
+
+Product Test Data:
+
+ProductID: P201
+Product Name: Wireless Mouse
+Category: Electronics
+Price: Rs799
+Quantity Available: 25
+
+ProductID: P202
+Product Name: Bluetooth Headphones
+Category: Electronics
+Price: rs1,499
+Quantity Available: 15
+
+ProductID: P203
+Product Name: Laptop Backpack
+Category: Accessories
+Price: Rs1,099
+Quantity Available: 10
+
+Order Test Data:
+
+OrderID: O301
+UserID: U101
+ProductID: P201
+Quantity Ordered: 1
+Total Amount: Rs799
+Payment Mode: Online
+Payment Status: Successful
+
+OrderID: O302
+UserID: U102
+ProductID: P202
+Quantity Ordered: 2
+Total Amount: Rs2,998
+Payment Mode: Online
+Payment Status: Successful
+
+Invalid Test Data (for error handling):
+
+Login with incorrect password
+
+Ordering quantity greater than available stock
+
+Payment with missing details
+
+6.2 Test Result
+
+The system successfully validates user login credentials.
+
+Products are displayed correctly with updated prices and stock.
+
+Orders are placed successfully for valid inputs.
+
+Error messages are displayed for invalid login, payment failure, or insufficient stock.
+
+7. User Manual
+7.1 How to Use Project Guidelines
+
+User registers or logs in
+
+Browses products
+
+Adds products to cart
+
+Places order and makes payment
+
+7.2 Screen Layouts and Description
+
+The interface is simple, clear, and easy for users to understand.
+
+8. Project Applications and Limitations
+
+Applications:
+
+Online shopping platforms
+
+Retail and wholesale businesses
+
+Limitations:
+
+Requires internet connectivity
+
+Limited payment options
+
+9. Conclusion and Future Enhancement
+
+The Online E-Commerce Website provides a reliable solution for online shopping. Agile methodology ensured flexibility and continuous improvement. Future enhancements may include mobile app development, recommendation systems, and improved security features.

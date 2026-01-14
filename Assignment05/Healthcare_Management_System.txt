@@ -1,0 +1,190 @@
+Healthcare Management System using Agile
+
+1. Abstract 
+
+A Healthcare Management System is a software application designed to manage hospital and clinic operations such as patient registration, appointment scheduling, medical records, and billing. In many healthcare institutions, patient data is still handled manually using paper files or basic digital records, which can lead to data loss, errors, and delays in treatment. To overcome these challenges, an automated healthcare management system is required.
+
+This project focuses on developing a Healthcare Management System using Agile methodology. The proposed system helps in maintaining patient details, doctor information, appointment schedules, treatment records, and billing information in a structured and secure manner. Patients can register, book appointments, and view their medical details, while hospital staff can manage records efficiently.
+
+
+2. Introduction
+2.1 Introduction
+
+Healthcare management systems help hospitals and clinics manage patient data and daily operations digitally.
+
+2.2 Problem Identification
+
+Manual record keeping in hospitals leads to inefficiency, data loss, and delays in patient care.
+
+2.3 Need of the Project
+
+There is a need for an automated system to manage patient records, appointments, and billing efficiently.
+
+2.4 Project Scheduling
+
+The project is developed using Agile methodology and divided into sprints such as planning, development, testing, and review.
+
+2.5 Objectives
+
+To manage patient records digitally
+
+To automate appointment scheduling
+
+To reduce paperwork and errors
+
+3. Software Requirement Specification
+3.1 Purpose
+
+The purpose of this project is to develop an efficient healthcare management system.
+
+3.2 Scope
+
+The system can be used by hospitals, clinics, and healthcare centers.
+
+3.3 Hardware / Software Requirement (Minimum)
+
+Hardware:
+
+Minimum 4 GB RAM
+
+Dual Core Processor
+
+Software:
+
+Windows Operating System
+
+Java
+
+MySQL Database
+
+3.4 Tools
+
+Java, MySQL, HTML, CSS
+
+3.5 Software Process Model
+
+Agile Scrum Model
+
+4. System Design
+4.1 Data Dictionary
+
+PatientID, PatientName, Age, Gender, DoctorName, AppointmentDate, Diagnosis, BillAmount
+
+5. Implementation
+5.1 Program Code
+
+The system is implemented using Java for backend processing and MySQL for database management.
+
+5.2 Output Screens
+
+Patient Registration Screen
+
+Appointment Booking Screen
+
+Medical Records Screen
+
+Billing Screen
+
+6. Testing
+6.1 Test Data
+
+The following test data was used to test the Healthcare Management System:
+
+Patient Test Data:
+
+Patient ID: P1001
+Name: Rohit Verma
+Age: 32
+Gender: Male
+Diagnosis: Fever
+
+Patient ID: P1002
+Name: Sneha Kapoor
+Age: 26
+Gender: Female
+Diagnosis: Migraine
+
+Doctor Test Data:
+
+Doctor ID: D201
+Name: Dr. Anil Sharma
+Specialization: General Physician
+
+Doctor ID: D202
+Name: Dr. Neha Joshi
+Specialization: Neurologist
+
+Appointment Test Data:
+
+Appointment ID: A301
+Patient ID: P1001
+Doctor ID: D201
+Appointment Date: 15-01-2026
+
+Appointment ID: A302
+Patient ID: P1002
+Doctor ID: D202
+Appointment Date: 16-01-2026
+
+Billing Test Data:
+
+Bill ID: B401
+Patient ID: P1001
+Amount: ₹800
+Payment Status: Paid
+
+Bill ID: B402
+Patient ID: P1002
+Amount: ₹1,200
+Payment Status: Paid
+
+Invalid Test Data (for error handling):
+
+Booking appointment with invalid doctor ID
+
+Missing patient details
+
+Negative billing amount
+
+6.2 Test Result
+
+Patient records are stored and retrieved correctly.
+
+Appointments are scheduled successfully.
+
+Billing details are calculated accurately.
+
+Proper error messages are displayed for invalid inputs.
+
+7. User Manual
+7.1 How to Use Project Guidelines
+
+Register patient details
+
+Assign doctor and book appointment
+
+Update medical records
+
+Generate and pay bill
+
+7.2 Screen Layouts and Description
+
+The interface is simple, clear, and easy to use for hospital staff.
+
+8. Project Applications and Limitations
+
+Applications:
+
+Hospitals and clinics
+
+Healthcare centers
+
+Limitations:
+
+Requires internet connectivity
+
+Limited advanced medical analytics
+
+9. Conclusion and Future Enhancement
+
+The Healthcare Management System provides an efficient solution for managing hospital operations. Agile methodology ensured flexibility and continuous improvement. Future enhancements include online consultation, mobile application support, and integration with laboratory systems.
