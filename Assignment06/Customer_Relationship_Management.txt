@@ -1,0 +1,83 @@
+Customer Relationship Management (CRM) System
+
+1. Introduction
+
+This document describes the manual testing performed on the Customer Relationship Management (CRM) system. Manual testing is carried out to verify that the CRM application functions according to the specified requirements and provides correct output for valid inputs while handling invalid inputs properly.
+
+The CRM system includes features such as customer registration, login, customer data management, interaction tracking, and complaint management. Manual testing helps ensure that all modules of the system work correctly and meet user expectations.
+
+2. Objective of Testing
+
+The main objectives of manual testing are:
+
+To verify all CRM functionalities work as expected
+To identify defects or errors in the system
+To ensure data accuracy and security
+To validate user input handling
+To improve overall system quality
+
+3. Scope of Testing
+
+The scope of testing includes the following modules:
+
+User Login
+Customer Registration
+Customer Data Management
+Complaint Management
+Logout Functionality
+Testing is performed using manual test cases without using automation tools.
+
+4. Test Environment
+
+Operating System: Windows
+Application Type: Web / Desktop Application
+Backend: Java
+Database: MySQL
+Testing Type: Manual Testing
+
+5. Test Strategy
+
+Black Box Testing approach is used
+Functional testing is performed
+Both valid and invalid inputs are tested
+Actual results are compared with expected results
+
+6. Test Data
+
+Valid Test Data:
+Username: admin
+Password: Admin@123
+Customer Name: Rahul Sharma
+Email: rahul@gmail.com
+Contact Number: 9876543210
+
+Invalid Test Data:
+
+Incorrect username/password
+Empty input fields
+Invalid email format
+Duplicate customer records
+
+7. Test Result Summary
+
+Total Test Cases Executed: 10
+
+Passed: 10
+
+Failed: 0
+
+Overall Result: All test cases passed successfully
+
+The CRM system performed as expected for all tested scenarios.
+
+8. Conclusion
+
+Manual testing of the Customer Relationship Management system was carried out successfully. All major functionalities were tested using valid and invalid inputs. The system behaved as expected and met the specified requirements. No critical defects were found during testing. The CRM system is reliable, user-friendly, and ready for use.
+
+9. Remarks
+
+Manual testing helped identify potential user errors
+
+System validation and error handling are properly implemented
+
+The application is stable and efficient

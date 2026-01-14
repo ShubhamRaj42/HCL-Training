@@ -1,0 +1,87 @@
+Online E-Commerce Website
+
+
+1. Introduction
+
+This document describes the manual testing performed on the Online E-Commerce Website. Manual testing is conducted to verify that the system works according to the specified requirements and provides correct output for valid inputs while handling invalid inputs properly.
+
+The Online E-Commerce Website allows users to register, log in, browse products, add items to a shopping cart, place orders, and make online payments. Manual testing ensures that all these functionalities work smoothly and provide a good user experience.
+
+2. Objective of Testing
+
+The objectives of manual testing are:
+To verify the correctness of e-commerce functionalities
+To ensure secure and accurate order processing
+To validate user input and error handling
+To identify defects in the system
+To improve system reliability and usability
+
+3. Scope of Testing
+
+The scope of testing includes:
+User Registration
+User Login
+Product Search and Listing
+Shopping Cart
+Order Placement
+Payment Processing
+Logout Functionality
+
+4. Test Environment
+
+Operating System: Windows
+Application Type: Web Application
+Backend: Java
+Database: MySQL
+Testing Type: Manual Testing
+
+5. Test Strategy
+
+Black Box Testing approach is used
+Functional testing is performed
+Both valid and invalid test cases are executed
+Expected results are compared with actual results
+
+
+6. Test Data
+
+Valid Test Data:
+
+Username: customer01
+Password: Cust@123
+Product Name: Wireless Mouse
+
+Quantity: 2
+
+Payment Mode: Online
+Invalid Test Data:
+Empty login fields
+Invalid password
+Quantity more than available stock
+Invalid payment details
+
+
+7. Test Result Summary
+
+Total Test Cases Executed: 10
+
+Passed: 10
+
+Failed: 0
+
+Overall Result: All test cases passed successfully
+
+The Online E-Commerce Website performed correctly for all tested scenarios.
+
+8. Conclusion
+
+Manual testing of the Online E-Commerce Website was carried out successfully. All major features such as product browsing, cart management, order placement, and payment processing worked as expected. The system handled invalid inputs properly and provided appropriate error messages. The application is stable and ready for use.
+
+
+9. Remarks
+
+The system is easy to use and reliable
+
+Input validations are properly implemented
+
+No critical defects were found during testing

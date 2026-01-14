@@ -1,0 +1,85 @@
+Travel Booking Platform
+1. Introduction
+
+This document describes the manual testing performed on the Travel Booking Platform. Manual testing is carried out to verify that the application functions correctly according to the specified requirements. The Travel Booking Platform allows users to register, search for travel options, book tickets, make payments, and manage bookings.
+
+The purpose of this test report is to ensure that all major functionalities work properly, errors are handled correctly, and the system provides a smooth user experience.
+
+2. Objective of Testing
+
+The objectives of manual testing are:
+
+To verify correct working of booking and payment features
+To ensure proper validation of user inputs
+To identify defects and usability issues
+To confirm data accuracy and reliability
+
+3. Scope of Testing
+
+The scope of testing includes:
+
+User Registration
+User Login
+Travel Search
+Booking Process
+Payment Module
+Booking Cancellation
+Logout Functionality
+Manual functional testing is performed on all the above modules.
+
+4. Test Environment
+
+Operating System: Windows
+Application Type: Web Application
+Backend: Java
+Database: MySQL
+Testing Type: Manual Testing
+
+5. Test Strategy
+
+Black Box Testing approach is used
+Functional testing is performed
+Valid and invalid inputs are tested
+Expected results are compared with actual results
+
+6. Test Data
+
+Valid Test Data:
+Username: user01
+Password: User@123
+Source: Delhi
+Destination: Mumbai
+Travel Date: 20-01-2026
+Payment Mode: Online
+
+Invalid Test Data:
+
+Empty login fields
+Invalid travel date
+Incorrect payment details
+Empty source or destination
+
+
+7. Test Result Summary
+
+Total Test Cases Executed: 10
+
+Passed: 10
+
+Failed: 0
+
+Overall Result: All test cases passed successfully
+
+The Travel Booking Platform works correctly for all tested scenarios.
+
+8. Conclusion
+
+Manual testing of the Travel Booking Platform was completed successfully. All key functionalities such as registration, search, booking, payment, and cancellation worked as expected. The system handled invalid inputs properly and displayed appropriate error messages. The application is reliable and ready for deployment.
+
+9. Remarks
+
+The system is user-friendly and responsive
+
+Error handling and validations are properly implemented
+
+The application meets the specified requirements

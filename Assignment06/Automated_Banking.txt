@@ -1,0 +1,85 @@
+Automated Banking Website
+
+
+1. Introduction
+
+This document describes the manual testing performed on the Automated Banking Website. Manual testing is conducted to verify that the banking application functions correctly according to the given requirements. The Automated Banking Website provides users with online banking services such as account login, balance inquiry, fund transfer, and transaction history.
+
+Manual testing ensures that all banking operations are performed accurately and securely, and that the system handles invalid inputs properly. The goal of this test report is to validate the reliability and usability of the banking system.
+
+
+2. Objective of Testing
+
+The objectives of manual testing are:
+
+To verify correct working of banking functionalities
+To ensure secure login and transactions
+To validate balance updates after transactions
+To identify defects in the system
+To ensure user-friendly operation
+
+3. Scope of Testing
+
+The scope of testing includes:
+
+User Login
+Balance Inquiry
+Fund Transfer
+Transaction History
+Logout Functionality
+Manual functional testing is performed on all these modules.
+
+4. Test Environment
+
+Operating System: Windows
+Application Type: Web Application
+Backend: Java
+Database: MySQL
+Testing Type: Manual Testing
+
+5. Test Strategy
+
+Black Box Testing approach is used
+Functional testing is performed
+Valid and invalid inputs are tested
+Actual results are compared with expected results
+
+6. Test Data
+
+Valid Test Data:
+
+Account Number: 1001001
+Username: user_bank01
+Password: Bank@123
+Transfer Amount: ₹5,000
+
+Invalid Test Data:
+
+Incorrect username or password
+Transfer amount greater than balance
+Invalid account number
+Empty input fields
+
+7. Test Result Summary
+
+Total Test Cases Executed: 10
+
+Passed: 10
+
+Failed: 0
+
+Overall Result: All test cases passed successfully
+
+The Automated Banking Website functioned correctly for all tested scenarios.
+
+8. Conclusion
+
+Manual testing of the Automated Banking Website was completed successfully. All major banking features such as login, balance inquiry, fund transfer, and transaction history worked as expected. The system handled invalid inputs securely and displayed appropriate error messages. The application is stable, secure, and ready for deployment.
+
+9. Remarks
+
+The system provides secure and reliable banking operations
+
+Input validations and error handling are effective
+
+No critical issues were identified during testing

@@ -1,0 +1,90 @@
+Healthcare Management System
+
+1. Introduction
+
+This document describes the manual testing performed on the Healthcare Management System. Manual testing is carried out to verify that the system functions correctly according to the specified requirements and supports hospital operations efficiently.
+
+The Healthcare Management System is designed to manage patient records, doctor details, appointment scheduling, and billing processes. Manual testing ensures that the system handles both valid and invalid inputs properly and provides accurate outputs.
+
+2. Objective of Testing
+
+The objectives of manual testing are:
+
+To verify correct functioning of healthcare modules
+To ensure accurate storage of patient records
+To validate appointment scheduling and billing
+To identify defects and usability issues
+To ensure system reliability and data accuracy
+
+3. Scope of Testing
+
+The scope of testing includes:
+
+Patient Registration
+Doctor Management
+Appointment Scheduling
+Medical Records Management
+Billing Module
+Logout Functionality
+Manual functional testing is performed on all listed modules.
+
+
+4. Test Environment
+
+Operating System: Windows
+Application Type: Web / Desktop Application
+Backend: Java
+Database: MySQL
+Testing Type: Manual Testing
+
+5. Test Strategy
+
+Black Box Testing approach is used
+Functional testing is performed
+Both valid and invalid inputs are tested
+Expected results are compared with actual results
+
+
+6. Test Data
+
+Valid Test Data:
+
+Patient ID: P1001
+Patient Name: Rohit Verma
+Age: 32
+Gender: Male
+Doctor Name: Dr. Anil Sharma
+Appointment Date: 15-01-2026
+Bill Amount: Rs800
+
+Invalid Test Data:
+
+Empty patient name
+Invalid age (negative value)
+Invalid doctor ID
+Appointment date in the past
+Negative billing amount
+
+7. Test Result Summary
+
+Total Test Cases Executed: 10
+
+Passed: 10
+
+Failed: 0
+
+Overall Result: All test cases passed successfully
+
+The Healthcare Management System worked correctly for all tested scenarios.
+
+8. Conclusion
+
+Manual testing of the Healthcare Management System was successfully completed. All major modules such as patient registration, appointment scheduling, medical record handling, and billing worked as expected. The system handled invalid inputs properly and displayed appropriate error messages. The application is stable and suitable for real-world use.
+
+9. Remarks
+
+The system improves hospital data management
+
+Input validation and error handling are effective
+
+No critical defects were found during testing
